@@ -1,0 +1,27 @@
+﻿  Function_NetwrokInit.h
+D:\ThucTap\CODEBT\CHAT\server\server\Class_Logger.hpp(23,14): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Class_Logger.hpp(24,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_Network.hpp(18,13): error C2512: 'boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>': no appropriate default constructor available
+D:\library\boost\boost_1_82_0\boost\asio\ip\tcp.hpp(83,11): message : see declaration of 'boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>'
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(296,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(308,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(314,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(318,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(363,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Function_RunCounter.h
+  ChatServer.cpp
+D:\ThucTap\CODEBT\CHAT\server\server\Class_Logger.hpp(23,14): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Class_Logger.hpp(24,17): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_Network.hpp(18,13): error C2512: 'boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>': no appropriate default constructor available
+D:\library\boost\boost_1_82_0\boost\asio\ip\tcp.hpp(83,11): message : see declaration of 'boost::asio::basic_stream_socket<boost::asio::ip::tcp,boost::asio::any_io_executor>'
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(296,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(308,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(314,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(318,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\Function_NetwrokInit.h(363,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\ChatServer.cpp(18,7): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\ThucTap\CODEBT\CHAT\server\server\ChatServer.cpp(74,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  NetworkInitLogs.txt
+  RunOnlyone.cpp
+D:\ThucTap\CODEBT\CHAT\server\server\RunOnlyone.cpp(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
